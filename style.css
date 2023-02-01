@@ -34,7 +34,7 @@ body {
    background-color: #F25022;
 }
 
-#color {
+.red-box, .green-box, .blue-box, .yellow-box {
     display: inline-block;
     width: 100px;
     height: 100px;
