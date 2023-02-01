@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box; 
+}
+body {
+    background-color: black;
+}
+
+.logo {
+    margin: auto;
+    display: block;
+    padding: 150px 150px 150px 190px;
+    width: 610px;
+    height: 619px;
+    background-color: #FFFFFF;
+}
+
+.yellow-box {
+    background-color: #FFB900;
+}
+
+.blue-box {
+    background-color: #00A4EF;
+}
+
+.green-box {
+    background-color: #7FBA00;
+}
+
+.red-box {
+   background-color: #F25022;
+}
+
+#color {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 3px;   
+}
